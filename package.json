@@ -1,14 +1,14 @@
 {
-  "name": "Abu_ser",
+  "name": "radioactv",
   "version": "7.3.6",
-  "description": "Abu ser is the Modified Version of WhatsAsena, Made By @Ajx-Abu with Baileys.",
+  "description": "radioactv is the Modified Version of WhatsAsena, Made By @radioactv with Baileys.",
   "main": "./Abu_ser/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajx-Abu/Abu_ser.git"
+    "url": "https://github.com/Radioactvmusic/Abu_ser.git"
   },
   "keywords": [
     "whatsapp",
